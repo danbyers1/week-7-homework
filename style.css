@@ -1,0 +1,53 @@
+body{
+	padding: 20px;
+	background-color:#545F65!important;
+}
+
+#adPanel{
+	height: 358px;
+	background-color:#545F65!important;
+	border:0px;
+	font-family: 'Abril Fatface', cursive;
+	color:#FFFFFF;	
+}
+
+#enterPanel{
+	background-color:#C2C9CC!important;	
+}
+
+#outPutPanel{
+	background-color:#C2C9CC!important;
+}
+
+.panel-heading{
+	background-color:#BB5D26;
+	font-family: 'Abril Fatface', cursive;
+	color:#FFFFFF;
+	font-size: 30px;
+	text-shadow: 2px 2px black;
+	border-top-right-radius:7px;
+    border-top-left-radius:7px;
+    text-align:center;
+}
+
+.panel{
+    border-color:#BB5D26!important;
+    font-family: 'Abril Fatface', cursive;
+    border-top-right-radius:10px;
+    border-top-left-radius:10px;
+    font-size: 15px;
+ }
+
+h1{
+	font-size: 65px;
+	text-shadow: 4px 4px #BB5D26;
+	margin-top: 0px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+button{
+	background-color:#BB5D26;
+	color:#FFFFFF;
+	font-size: 20px;
+}
